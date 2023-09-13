@@ -2,7 +2,7 @@
   "name": "sub-web",
   "version": "0.1.0",
   "engines": {
-    "node": "18.x"
+    "node": "16"
   },
   "private": true,
   "scripts": {
